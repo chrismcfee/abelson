@@ -11,7 +11,7 @@ abelson.c - Hal Abelson's Song. It's ``Abelson Good!''
  
     On modern Linux systems with PulseAudio:
  
-      $ ./ableson | padsp tee /dev/audio > /dev/null
+      $ ./abelson | padsp tee /dev/audio > /dev/null
  
     Or on older systems:
  
